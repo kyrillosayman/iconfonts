@@ -1,1 +1,13 @@
-.text{background-color: #000;}
+.desert{
+    background-image: url(./Desert.jpg);
+}.chrysanthemum{
+    background-image: url(./Chrysanthemum.jpg);
+}.hydrangeas{
+    background-image: url(./Hydrangeas.jpg);
+}.Jellyfish{
+    background-image: url(./Jellyfish.jpg);
+}.Koala{
+    background-image: url(./Koala.jpg);
+}.Lighthouse{
+    background-image: url(./Lighthouse.jpg);
+}
